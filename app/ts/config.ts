@@ -9,7 +9,7 @@ require.config({
 
     paths: {
         //main libraries
-        "jquery": '../js/jquery-1.11.1.min',
+        "jquery": '../js/jquery',
         "bootstrap": '../js/bootstrap.min',
 
         //shortcut paths
